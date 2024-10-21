@@ -12,9 +12,9 @@ const projects = [
   },
   {
     id: 2,
-    title: "Project Two",
-    description: "A brief description of Project Two, highlighting key features and technologies used.",
-    image: "https://via.placeholder.com/400x250", // Replace with your project image
+    title: "Offshop",
+    description: "An eCommerce website that offers a stunning UI, making product discovery an effortless experience.",
+    image: images.offshop, // Replace with your project image
     link: "#", // Replace with your project link
   },
   {
